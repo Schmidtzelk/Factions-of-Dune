@@ -2,7 +2,7 @@
 	{
 		"name": "House Atreides",
 		"leaderName": "Leto Atreides",
-		"adjective": ["atreides"],
+		"adjective": ["Atreides"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Diplomatic",
 		
