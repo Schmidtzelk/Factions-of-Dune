@@ -4,7 +4,7 @@
 		"leaderName": "Leto Atreides",
 		"adjective": ["Atreides"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "A newly arrived House Major from the lush earth-like planet of Caladan, transferred to Arrakis on behalf of the Padishah Emperor.",	
 		"startIntroPart2": "A House that knows the ways of peace and the visions of paradise from their homeworld of Caladan, would they be able to unify Arrakis from others?",
