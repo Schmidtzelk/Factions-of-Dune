@@ -33,5 +33,40 @@
 		"cities": ["Arrakeen","The Fane","The Citadel","Oxtyn Basin","Sihaya Basin","Temple Wall","Odysseus Way","Appolosia","Adonis Tower",
 			"Damian's Tower","The Creed","Alkarys"]
 		"spyNames": ["Tyron", "Hisra", "Dennis", "Akira", "Ihram", "Pelia", "Nadios", "Callahan", "Ciara"]
+	},	
+	{
+		"name": "House Atreides 2",
+		"leaderName": "Leto Atreides",
+		"adjective": ["Atreides"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "A newly arrived House Major from the lush earth-like planet of Caladan, transferred to Arrakis on behalf of the Padishah Emperor.",	
+		"startIntroPart2": "A House that knows the ways of peace and the visions of paradise from their homeworld of Caladan, would they be able to unify Arrakis from others?",
+		
+		"introduction": "Greetings from House Atreides, we will treat you fairly.",
+		"declaringWar": "We will remember this, you traitors!",
+		"attacked": "How dare you commit this act!",
+		"defeated": "You have betrayed our House, may the will of House Atreides live on!",
+		
+		"neutralHello": "How are you doing friend?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["I beg your pardon?","That is not possible.","Sorry, we refuse your demands."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you wish to discuss.",
+		"hateLetsHearIt": ["State your proclamations","Speak.","Go on."],
+		"hateNo": ["No!","I cannot understand your foolish demands.","We refuse!"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "You declare the words of peace, we respect your decision.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [130,109,31],
+		"innerColor": [36,110,47],
+		"uniqueName": "VISIONS OF AN UTOPIA",
+		"cities": ["Arrakeen","The Fane","The Citadel","Oxtyn Basin","Sihaya Basin","Temple Wall","Odysseus Way","Appolosia","Adonis Tower",
+			"Damian's Tower","The Creed","Alkarys"]
+		"spyNames": ["Tyron", "Hisra", "Dennis", "Akira", "Ihram", "Pelia", "Nadios", "Callahan", "Ciara"]
 	}
 ]
