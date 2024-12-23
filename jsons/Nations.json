@@ -9,10 +9,10 @@
 		"startIntroPart1": "A newly arrived House Major from the lush earth-like planet of Caladan, transferred to Arrakis on behalf of the Padishah Emperor.",	
 		"startIntroPart2": "A House that knows the ways of peace and the visions of paradise from their homeworld of Caladan, would they be able to unify Arrakis from others?",
 		
+		"introduction": "Greetings from House Atreides, we will treat you fairly.",
 		"declaringWar": "We will remember this, you traitors!",
 		"attacked": "How dare you commit this act!",
 		"defeated": "You have betrayed our House, may the will of House Atreides live on!",
-		"introduction": "Greetings from House Atreides, we will treat you fairly.",
 		
 		"neutralHello": "How are you doing friend?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -29,8 +29,9 @@
 
 		"outerColor": [130,109,31],
 		"innerColor": [36,110,47],
-		"unique": "VISIONS OF AN UTOPIA",
+		"uniqueName": "VISIONS OF AN UTOPIA",
 		"cities": ["Arrakeen","The Fane","The Citadel","Oxtyn Basin","Sihaya Basin","Temple Wall","Odysseus Way","Appolosia","Adonis Tower",
 			"Damian's Tower","The Creed","Alkarys"]
+		"spyNames": ["Tyron", "Hisra", "Dennis", "Akira", "Ihram", "Pelia", "Nadios", "Callahan", "Ciara"]
 	}
 ]
