@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Dunes",
+		"name": "Grassland",
 		"type": "Land",
 		"food": 2,
 		"movementCost": 1,
