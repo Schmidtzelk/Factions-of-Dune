@@ -5,16 +5,14 @@
 	"type": "Land",
 	"food": 2,
 	"movementCost": 1,
-        "RGB": [217, 169, 59],
-        "uniques": []
+        "RGB": [102, 102, 102],
 	},
 	{
 	"name": "Open Desert",
 	"type": "Land",
 	"food": 1,
 	"movementCost": 2,
-	"RGB": [250, 207, 107],
-	"uniques": []
+	"RGB": [230, 172, 0],
 	}
 ]
 	
