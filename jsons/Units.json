@@ -1,18 +1,17 @@
 [
     {
-        "name": "Settler",
+        "name": "Colonist",
         "unitType": "Civilian",
         "movement": 2,
+	"cost": 130,
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
     {
-		"name": "Rifleman",
-		"unitType": "Infantry",
-		"movement": 2,
-		"strength": 5,
-        "range": 2,
-		"rangedStrength": 7,
-		"cost": 40,
-		"attackSound": "shot"
-	}
+	"name": "Scout",
+	"unitType": "Infantry",
+	"movement": 2,
+	"strength": 5,
+	"cost": 30,
+	"attackSound": "nonmetalhit"
+    }
 ]
