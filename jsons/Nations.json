@@ -3,7 +3,6 @@
 		"name": "House Atreides",
 		"leaderName": "Leto Atreides",
 		"adjective": ["Atreides"],
-		"startBias": ["Dunes"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "A newly arrived House Major from the lush earth-like planet of Caladan, transferred to Arrakis on behalf of the Padishah Emperor.",	
@@ -38,7 +37,6 @@
 		"name": "House Harkonnen",
 		"leaderName": "Vladimir Harkonnen",
 		"adjective": ["Harkonnen"],
-		"startBias": ["Dunes"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "A long-standing House Major from Giedi Prime, granted the siridar fief of Arrakis to extract its resources.",	
