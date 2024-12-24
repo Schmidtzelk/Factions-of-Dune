@@ -3,7 +3,7 @@
 		"name": "House Atreides",
 		"leaderName": "Leto Atreides",
 		"adjective": ["Atreides"],
-		"startBias": ["Snow"],
+		"startBias": ["Dunes"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "A newly arrived House Major from the lush earth-like planet of Caladan, transferred to Arrakis on behalf of the Padishah Emperor.",	
@@ -32,13 +32,13 @@
 		"uniqueName": "Visions of an Utopia",
 		"cities": ["Arrakeen","The Fane","The Citadel","Oxtyn Basin","Sihaya Basin","Temple Wall","Odysseus Way","Appolosia","Adonis Tower",
 			"Damian's Tower","The Creed","Alkarysia"]
-		"spyNames": ["Tyron", "Hisera", "Dennis", "Akira", "Ihram", "Pelia", "Nadios", "Callahan", "Ciara"]
+		"spyNames": ["Thufir", "Tyron", "Hisera", "Dennis", "Akira", "Ihram", "Pelia", "Nadios", "Callahan", "Ciara"]
 	},	
 	{
 		"name": "House Harkonnen",
 		"leaderName": "Vladimir Harkonnen",
 		"adjective": ["Harkonnen"],
-		"startBias": ["Snow"],
+		"startBias": ["Dunes"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "A long-standing House Major from Giedi Prime, granted the siridar fief of Arrakis to extract its resources.",	
@@ -67,6 +67,6 @@
 		"uniqueName": "Iron Fist",
 		"cities": ["Carthag","Fort Rabban","Haila","","Tugomir","Shielda","Krasimir","Yakovia","Myakovsky",
 			"Fort Simonov","Harkograd","Dragon's Way"]
-		"spyNames": ["Francoise", "Kolya", "Raimond", "Kresimira", "Noelle", "Pons", "Zeljko", "Stanka", "Tomislav"]
+		"spyNames": ["Piter", "Francoise", "Kolya", "Raimond", "Kresimira", "Noelle", "Pons", "Zeljko", "Stanka", "Tomislav"]
 	}
 ]
