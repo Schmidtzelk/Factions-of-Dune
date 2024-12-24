@@ -13,5 +13,13 @@
 	"strength": 5,
 	"cost": 30,
 	"attackSound": "nonmetalhit"
+    },
+    {
+	"name": "Militia",
+	"unitType": "Infantry",
+	"movement": 2,
+	"strength": 8,
+	"cost": 30,
+	"attackSound": "nonmetalhit"
     }
 ]
