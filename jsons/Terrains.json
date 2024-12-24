@@ -2,7 +2,7 @@
 	{
 		"name": "Dunes",
 		"type": "Land",
-		"food": 2,
+		"food": 1,
 		"movementCost": 1,
         "RGB": [217, 169, 59],
         "uniques": []
